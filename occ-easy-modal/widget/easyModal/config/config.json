@@ -1,0 +1,20 @@
+{
+  "widgetDescriptorName": "EasyModalWidget",
+  "properties": [
+    {
+      "id": "easyModalTitle",
+      "type": "stringType",
+      "helpTextResourceId": "easyModalTitle1HelpText",
+      "labelResourceId": "easyModalTitle1Label",
+      "defaultValue": ""
+    },
+    {
+        "id": "modalText",
+        "type": "stringType",
+        "name": "modalText",
+        "helpTextResourceId": "modalText1HelpText",
+        "labelResourceId": "modalText1Label",
+        "defaultValue": ""
+    }
+  ]
+}

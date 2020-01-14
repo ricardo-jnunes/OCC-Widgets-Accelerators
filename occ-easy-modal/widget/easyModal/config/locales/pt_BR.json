@@ -1,0 +1,8 @@
+{
+  "resources": {
+    "easyModalTitle1Label": "Título",
+    "easyModalTitle1HelpText": "O título do modal",
+    "modalText1Label": "Texto do corpo",
+    "modalText1HelpText": "O texto do corpo do modal"
+  }
+}

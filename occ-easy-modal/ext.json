@@ -1,0 +1,19 @@
+{
+  "createdBy": "Nunes R.J.",
+  "developerID": "nunesrj",
+  "extensionID": "c708cbd1-309c-47dd-9d90-9860042e4d80",
+  "translations": [
+    {
+      "language": "en_US",
+      "name": "Easy Modal Extension",
+      "description": "An easy and configurable modal"
+    },
+    {
+      "language": "pt_BR",
+      "name": "Extensão Easy Modal",
+      "description": "Um modal fácil e configurável"
+    }
+  ],
+  "timeCreated": "2019-10-08",
+  "version": 1
+}

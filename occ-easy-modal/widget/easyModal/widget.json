@@ -1,0 +1,23 @@
+{
+  "config": {
+  },
+  "defaultLayout": "easyModalLayout",
+  "availableToAllPages": true,
+  "globalEnabled": true,
+  "i18nresources": "easyModal",
+  "imports": [],
+  "javascript": "easyModal",
+  "jsEditable": true,
+  "minWidth": 1,
+  "translations": [{
+    "language": "en_US",
+    "name": "Easy Modal Widget"
+  },
+  {
+    "language": "pt_BR",
+    "name": "Widget Easy Modal"
+  }],
+  "version": 1,
+  "widgetFamily": "easyModal",
+  "widgetType": "easyModal"
+}

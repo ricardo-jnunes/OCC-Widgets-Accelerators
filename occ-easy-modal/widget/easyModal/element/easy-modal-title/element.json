@@ -1,0 +1,22 @@
+{
+  "availableToAllWidgets": false,
+  "children": [],
+  "configOptions": [],
+  "inline": false,
+  "supportedWidgetType": [
+    "easyModal"
+  ],
+  "tag": "easy-modal-title",
+  "translations": [
+    {
+      "description": "Elemento título do modal",
+      "language": "pt_BR",
+      "title": "Elemento Título"
+    },
+    {
+      "description": "Modal title element",
+      "language": "en_US",
+      "title": "Title Element"
+    }
+  ]
+}

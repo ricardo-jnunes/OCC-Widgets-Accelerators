@@ -1,0 +1,18 @@
+<div class="modal fade" id="easyModal" data-oc-id="panel-0-0" tabindex="-1" role="dialog" 
+	aria-labelledby="easyModal"
+	aria-hidden="true">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header" data-bind="element: 'easy-modal-title'">
+
+			</div>
+			<div class="modal-body">
+				...
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+				<button type="button" class="btn btn-primary">Salvar mudanças</button>
+			</div>
+		</div>
+	</div>
+</div>
