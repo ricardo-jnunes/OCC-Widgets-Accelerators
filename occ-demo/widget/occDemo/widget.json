@@ -1,0 +1,19 @@
+{
+  "config": {
+  },
+  "javascript": "occDemo",
+  "jsEditable": true,
+  "defaultLayout": "demoOCCAcceleratorLayout",
+  "availableToAllPages": true,
+  "i18nresources": "occDemo",
+  "minWidth": 1,
+  "translations": [{
+    "language": "en_US",
+    "name": "Demo for Accelerators Widget"
+  },
+  {
+    "language": "pt_BR",
+    "name": "Widget Demo para os Aceleradores"
+  }],
+  "version": 1
+}

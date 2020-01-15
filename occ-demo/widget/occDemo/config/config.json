@@ -1,0 +1,12 @@
+{
+  "widgetDescriptorName": "OCCDemoTestWidget",
+  "properties": [
+    {
+      "id": "occDemoTestTitle",
+      "type": "stringType",
+      "helpTextResourceId": "occDemoTestTitle1HelpText",
+      "labelResourceId": "occDemoTestTitle1Label",
+      "defaultValue": ""
+    }
+  ]
+}

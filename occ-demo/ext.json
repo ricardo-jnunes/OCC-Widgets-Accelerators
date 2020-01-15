@@ -1,0 +1,19 @@
+{
+  "createdBy": "OCC Accelerator",
+  "developerID": "nunesrj",
+  "extensionID": "729194da-7396-4d39-a317-657476165901",
+  "translations": [
+    {
+      "language": "en_US",
+      "name": "Demo for Accelerators",
+      "description": "An easy way to test the accelerators"
+    },
+    {
+      "language": "pt_BR",
+      "name": "Demo para os Aceleradores",
+      "description": "Um jeito fácil de testar os aceleradores"
+    }
+  ],
+  "timeCreated": "2020-01-01",
+  "version": 1
+}
